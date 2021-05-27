@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GrapsZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapsz)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GrapsZ/grapsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
